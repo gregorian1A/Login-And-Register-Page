@@ -1,3 +1,3 @@
-# react-gtp5zu
+# Login And Register Page
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-gtp5zu)
+Allows you to register your data(username, email and password) to a local database and then to log in to the welcome page.
